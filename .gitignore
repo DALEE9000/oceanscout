@@ -1,0 +1,8 @@
+# local state and outputs
+ocean.db
+answers/
+digests/
+notes/
+*.log
+gui_server.err
+__pycache__/
